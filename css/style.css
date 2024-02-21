@@ -41,7 +41,7 @@ section {
 
 .background {
     position: relative;
-    margin-left: -55px;
+    margin-left: -62px;
 }
 
 @keyframes background-animation {
@@ -83,7 +83,7 @@ header p {
 
 main {
     width: 100vw;
-    height: 600px;
+    height: 70.7vh;
     margin: auto;
     position: relative;
     overflow: hidden;
@@ -92,7 +92,7 @@ main {
 .clouds {
     width: 300px;
     position: absolute;
-    bottom: 47vh;
+    bottom: 41vh;
     animation: pipe-animation 7.5s infinite linear;
     right: -200px;
 }
@@ -182,7 +182,7 @@ main {
 }
 
 footer {
-    margin-top: 90px;
+    margin-top: 5%;
     width: 100vw;
     height: 400px;
     position: absolute;

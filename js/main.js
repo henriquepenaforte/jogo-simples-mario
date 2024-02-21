@@ -120,7 +120,7 @@ const dificuldade = () => {
     setTimeout(()=> {
         pipe.style.right = '0px';
         pipe.style.animationDuration = '1.5s'
-    },25000)
+    },22000)
 }
 dificuldade();
 
@@ -129,6 +129,6 @@ const dificulade2 = () => {
     setTimeout(()=> {
         pipe.style = pipeStyleDefault;
         pipe.style.animationDuration = '1s'
-    },50000)
+    },44000)
 }
 dificulade2();
